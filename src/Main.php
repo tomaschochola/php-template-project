@@ -13,7 +13,7 @@
 
 declare(strict_types=1);
 
-namespace Src;
+namespace TomasChochola\Template\Project;
 
 /**
  * @no-named-arguments
